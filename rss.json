@@ -5,36 +5,60 @@
       "url": "https://sspai.com/feed"
     },
     {
-      "title": "阮一封的网络日志",
-      "url": "http://feeds.feedburner.com/ruanyifeng"
+      "title": "ZAPRO · 杂铺",
+      "url": "https://tmioe.com/feed"
     },
     {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
+      "title": "历史上的今天",
+      "url": "https://feedx.net/rss/wikihistory.xml"
     },
     {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
+      "title": "最美应用",
+      "url": "http://zuimeia.com/feed/"
     },
     {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
+      "title": "历史上的今天",
+      "url": "https://feedx.net/rss/wikihistory.xml"
     },
     {
-      "title": "Airing 的小屋",
-      "url": "https://me.ursb.me/feed"
+      "title": "异次元软件世界",
+      "url": "https://feed.iplaysoft.com/"
     },
     {
-      "title": "少数派 matrix",
-      "url": "https://rsshub.app/sspai/matrix"
+      "title": "OSCHINA 社区最新软件",
+      "url": "https://www.oschina.net/project/rss?show=recomms"
     },
     {
-      "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
+      "title": "最新动态",
+      "url": "https://rsshub.app/coolapk/toutiao/latest#force_feed"
     },
     {
-      "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
+      "title": "酷安话题-薅羊毛小分队",
+      "url": "https://rsshub.app/coolapk/huati/%E8%96%85%E7%BE%8A%E6%AF%9B%E5%B0%8F%E5%88%86%E9%98%9F"
+    },
+    {
+      "title": "豆瓣最受欢迎的乐评",
+      "url": "https://www.douban.com/feed/review/music"
+    },
+    {
+      "title": "酷安话题-好物安利",
+      "url": "https://rsshub.app/coolapk/huati/%E5%A5%BD%E7%89%A9%E5%AE%89%E5%88%A9"
+    },
+    {
+      "title": "豆瓣最受欢迎的书评",
+      "url": "https://www.douban.com/feed/review/book"
+    },
+    {
+      "title": "豆瓣最受欢迎的影评",
+      "url": "https://www.douban.com/feed/review/movie"
+    },
+    {
+      "title": "HelloGitHub 月刊",
+      "url": "https://hellogithub.com/rss"
+    },
+    {
+      "title": "睡眠伴侣",
+      "url": "https://rss.datatube.dev/ncm/playlist/2829733864?limit=1"
     }
   ]
 }
